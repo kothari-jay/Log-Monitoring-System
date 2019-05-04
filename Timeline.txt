@@ -1,0 +1,4 @@
+it took me around 24 hours to build whole system.
+
+I completed first part in 4 hours however the later part took lot of time because getting results
+in 1 second needed me to think of implementing cache structure and also I have to put lot of thought in initialization of query as it was way slower when i first created.
